@@ -1,0 +1,9 @@
+I love crytography
+
+firstWord - (charCode + 1) * magicKey.
+
+SecondWord - (charCode+2) * magicKey
+	.
+	.	
+key === (code/magicKey) - position of word
+
